@@ -1,0 +1,14 @@
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\bin\Debug\pratica.exe.config
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\bin\Debug\pratica.exe
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\bin\Debug\pratica.pdb
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\obj\Debug\pratica.csproj.AssemblyReference.cache
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\obj\Debug\pratica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\obj\Debug\pratica.exe
+C:\Users\Aluno-Lab\source\repos\estudo\pratica\obj\Debug\pratica.pdb
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\bin\Debug\pratica.exe.config
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\bin\Debug\pratica.exe
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\bin\Debug\pratica.pdb
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\obj\Debug\pratica.csproj.AssemblyReference.cache
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\obj\Debug\pratica.csproj.CoreCompileInputs.cache
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\obj\Debug\pratica.exe
+C:\Users\cicer\source\repos\Urna-Eletr-nica-CSHARP-main\pratica\obj\Debug\pratica.pdb
